@@ -2,13 +2,15 @@
 
 **A starter template to create smart contract accounts or paymasters on zkSync Era.**
 
-This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
+Additional resources:
+
+- Create your own paymaster: https://era.zksync.io/docs/dev/tutorials/custom-paymaster-tutorial.html
+- Create your smart contract multisig account: https://era.zksync.io/docs/dev/tutorials/custom-aa-tutorial.html
 
 ## Project structure
 
 - `/contracts`: smart contracts.
 - `/deploy`: deployment and contract interaction scripts.
-- `/test`: test files
 - `hardhat.config.ts`: configuration file.
 
 ## Commands
@@ -35,3 +37,6 @@ WALLET_PRIVATE_KEY=123cde574ccff....
 - [GitHub](https://github.com/matter-labs)
 - [Twitter](https://twitter.com/zksync)
 - [Discord](https://discord.gg/nMaPGrDDwk)
+
+
+This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
